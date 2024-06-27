@@ -1,13 +1,13 @@
-# graphic-designing-seistly-work
+# graphic-designing-siestly-work
 Test task 
 
-**Task Execution: UI/UX Design and Website Modification for Seistly**
+**Task Execution: UI/UX Design and Website Modification for Siestly**
 
 **Objective:** Enhance the user interface and visual appeal of Seistly's website through strategic modifications and custom graphic designs.
 
 **Tools Utilized:**
 - **Figma:** Used for wireframing, creating mockups, and designing interactive prototypes of website pages.
-- **Canva:** Employed for creating custom graphics, images, and promotional materials tailored to Seistly's brand aesthetic.
+- **Canva:** Employed for creating custom graphics, images, and promotional materials tailored to Siestly's brand aesthetic.
 
 **Process Overview:**
 
@@ -35,6 +35,6 @@ Test task
    - Prepared a comprehensive handover package including style guides, design assets, and instructions for maintaining design integrity post-launch.
 
 **Outcome:**
-- Successfully revamped Seistly's website interface, improving user engagement and conversion rates through enhanced UI/UX design.
+- Successfully revamped Siestly's website interface, improving user engagement and conversion rates through enhanced UI/UX design.
 - Delivered visually appealing graphics and images that reinforce Seistly's brand identity and attractively showcase their product offerings.
 - Contributed to a seamless user experience journey, from initial website entry to checkout, fostering customer satisfaction and brand loyalty.
