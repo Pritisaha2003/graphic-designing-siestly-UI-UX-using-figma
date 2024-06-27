@@ -1,1 +1,1 @@
-# graphoc-designing-seistly-work
+# graphic-designing-seistly-work
